@@ -16,4 +16,4 @@ For many businesses–only a small percentage of customers produce most of the r
 
 
 ## NN Modelu
-![](GStore%20Revenue%20Prediction/pics/NN.png)
+![](GStore%20Revenue%20Prediction/pics/NN%20Module.png)
