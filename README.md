@@ -1,4 +1,4 @@
-# GStore Revenue Predition
+# Google Store Revenue Predition
 
 ### Data Source: [kaggle](https://www.kaggle.com/c/ga-customer-revenue-prediction/overview)
 
