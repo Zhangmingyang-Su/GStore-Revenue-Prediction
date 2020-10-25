@@ -8,7 +8,9 @@ For many businesses–only a small percentage of customers produce most of the r
 
 
 ## Exploratory Data Analysis
-* 
+* Date Count
+![G](/pics/p1.png)
+
 
 
 
