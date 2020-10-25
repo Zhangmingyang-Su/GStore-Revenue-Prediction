@@ -15,5 +15,5 @@ For many businesses–only a small percentage of customers produce most of the r
 
 
 
-## NN Modelu
+## NN Modelu (Two branches -> Merge -> One branch)
 ![](GStore%20Revenue%20Prediction/pics/NN%20Module.png)
