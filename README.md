@@ -9,8 +9,9 @@ For many businesses–only a small percentage of customers produce most of the r
 
 ## Exploratory Data Analysis
 * Date Count
-![G](/pics/p1.png)
-
+![](GStore%20Revenue%20Prediction/pics/p2.png)
+* Date None-Zero Revenue Count
+![](GStore%20Revenue%20Prediction/pics/p1.png)
 
 
 
